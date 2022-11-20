@@ -1,0 +1,69 @@
+10:15:59	 From  Viplove Tyagi : Hi All,sorry for joining late.
+10:30:10	 From  Manas : vidible
+10:30:18	 From  Manas : visible
+10:30:28	 From  Sumit Singh : yes
+10:30:37	 From  Arun Bahl : Yes
+10:40:26	 From  samsung : will we get codes/scripts for each module
+10:43:56	 From  Manas : cloudguru offers labs... usme aws and azure sandbox milta hai free of cost.. just subscribe to cloudguru
+10:45:50	 From  Manas : yes visible
+10:45:50	 From  Viplove Tyagi : yes
+11:21:24	 From  Arun Bahl : No
+11:21:45	 From  MD SAID ANSARI : no
+11:25:01	 From  manoj kumar : no i am not
+11:25:05	 From  vaibhav sharma : no devops
+11:25:07	 From  Viplove Tyagi : no
+11:25:07	 From  MD ASIF AKHTER : no sir
+11:25:13	 From  manoj kumar : yes
+11:25:13	 From  Viplove Tyagi : infra only
+11:25:17	 From  MD ASIF AKHTER : ]yes wanted to move to devops
+11:25:41	 From  Arun Bahl : No sir , Infra [ vmware ]
+11:32:40	 From  manoj kumar : no
+11:32:47	 From  Govind Gaur : no
+11:34:56	 From  Manas : no
+11:46:32	 From  MD SAID ANSARI : aws
+11:46:35	 From  MD ASIF AKHTER : aws
+11:46:40	 From  manoj kumar : azure
+11:46:41	 From  Viplove Tyagi : azure
+11:47:05	 From  vaibhav sharma : azure
+11:47:12	 From  samsung : AWS will be ok
+11:47:17	 From  Arun Bahl : AWS
+11:50:35	 From  Arun Bahl : Absolutely 💯
+11:52:37	 From  Deeptesh Bhattacharjee : AWS Free Tier Account
+11:53:05	 From  manoj kumar : windows
+11:53:09	 From  MD ASIF AKHTER : i have both
+11:53:10	 From  MD SAID ANSARI : w10
+11:53:16	 From  Govind Gaur : windows 10
+11:53:30	 From  Deeptesh Bhattacharjee : Visual Studio Code
+11:53:56	 From  Deeptesh Bhattacharjee : Open Powershell In Administrator Mode
+11:53:59	 From  Deeptesh Bhattacharjee : Install-Script -Name Install-VSCode
+11:54:20	 From  Deeptesh Bhattacharjee : AWS CLI
+11:54:24	 From  Deeptesh Bhattacharjee : msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+11:55:03	 From  Deeptesh Bhattacharjee : https://youtu.be/bQG5_eJ1qLw
+12:03:13	 From  Viplove Tyagi : presentation is disable
+12:05:12	 From  vaibhav sharma : PackageManagement\Install-Package : No match was found for the specified search criteria and script name
+'Install-VSCode'. Try Get-PSRepository to see all available registered script repositories.
+At C:\Program Files\WindowsPowerShell\Modules\PowerShellGet\1.0.0.1\PSModule.psm1:3538 char:21
++ ...          $null = PackageManagement\Install-Package @PSBoundParameters
++                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Microsoft.Power....InstallPackage:InstallPackage) [Install-Package], Ex
+   ception
+    + FullyQualifiedErrorId : NoMatchFoundForCriteria,Microsoft.PowerShell.PackageManagement.Cmdlets.InstallPackage
+
+PS C:\Windows\system32>
+12:10:38	 From  MD SAID ANSARI : i have already aws account, AWS CLI install, VS Code install
+12:19:15	 From  Arun Bahl : Thank you Deeptesh
+12:20:23	 From  vaibhav sharma : thanks evryone , meet you tomorrow
+12:22:46	 From  sonsharm9 : compute, storage and network
+12:23:12	 From  manoj kumar : load balancer
+12:23:13	 From  MD ASIF AKHTER : VPC
+12:23:16	 From  manoj kumar : application
+12:23:22	 From  Viplove Tyagi : Server ,LB, Apache, Application
+12:23:30	 From  manoj kumar : iis
+12:23:36	 From  manoj kumar : db
+12:23:40	 From  Viplove Tyagi : DB
+12:23:50	 From  manoj kumar : firewall
+12:23:53	 From  Manas : Application - configuration, deployment softwaresNEtwork- IP addreses, Virtual network, Loadbalancers, ASG, FirewallDatabase
+12:29:04	 From  Manas : don't know
+12:29:10	 From  MD SAID ANSARI : no idea
+12:29:14	 From  MD ASIF AKHTER : no idea
+12:29:16	 From  Govind Gaur : no idea

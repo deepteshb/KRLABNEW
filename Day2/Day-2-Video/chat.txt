@@ -1,0 +1,35 @@
+10:24:26	 From  MD SAID ANSARI : no sir
+10:24:39	 From  manoj kumar : no idea
+10:45:58	 From  Gaurav Khandelwal : yes
+10:45:59	 From  Manas : yes
+10:46:01	 From  Sandeep : yes
+10:46:02	 From  manoj kumar : yes
+10:46:07	 From  vaibhav sharma : yes
+10:47:01	 From  Gaurav Khandelwal : No sir
+10:47:33	 From  sonsharm9 : yes
+10:47:33	 From  manoj kumar : yes
+10:47:37	 From  MD SAID ANSARI : yes sir
+10:47:37	 From  Manas : I have
+10:47:41	 From  Viplove Tyagi : yes
+10:47:45	 From  Sandeep : yes
+10:49:23	 From  manoj kumar : no
+10:49:30	 From  Viplove Tyagi : no
+10:49:48	 From  Asif A : no
+10:57:45	 From  Viplove Tyagi : Terraform --version
+10:58:51	 From  Viplove Tyagi : yes
+10:59:15	 From  manoj kumar : Terraform v1.3.4
+11:07:44	 From  Manas : net user administrator /active:yes
+11:26:27	 From  manoj kumar : please start recording
+12:10:15	 From  Deeptesh Bhattacharjee : https://www.terraform.io/
+12:15:30	 From  Deeptesh Bhattacharjee : https://registry.terraform.io/
+12:19:01	 From  MD SAID ANSARI : no sir
+12:21:15	 From  bibek : yes
+12:25:07	 From  bibek : Goibibo and Flight company quotes
+12:43:25	 From  bibek : terraform {  required_providers {    azurerm = {      source = "hashicorp/azurerm"      version = "3.30.0"    }  }}provider "azurerm" {  # Configuration options}
+12:51:41	 From  Deeptesh Bhattacharjee : configuration > terraform init > terraform plan > terraform apply                                                 > terraform destroy
+12:53:49	 From  vaibhav sharma : please put question in chat for reference
+12:54:23	 From  Deeptesh Bhattacharjee : Terraform Workflowconfiguration > terraform init > terraform plan > terraform apply                                                 > terraform destroy
+12:59:00	 From  Viplove Tyagi : You can share the resume with me - Azure (certified ) + Terraform - Viplove.tyagi1@wipro.com
+13:03:02	 From  Viplove Tyagi : Terraform init
+13:04:43	 From  vaibhav sharma : Hi sir , time is passed already . class is already over , need to fulfill other commitment , if other agrees can we resume next week
+13:10:02	 From  bibek : ap-south-1
