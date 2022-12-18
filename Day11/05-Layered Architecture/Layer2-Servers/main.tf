@@ -11,7 +11,7 @@ provider "aws" {
 
 terraform {
   backend "s3" {
-    bucket = "deeptesh-project-krntwrk-terraform-state" // Bucket where to SAVE Terraform State
+    bucket = "" // Bucket where to SAVE Terraform State
     key    = "dev/servers/terraform.tfstate"             // Object name in the bucket to SAVE Terraform State
     region = "us-east-1"                                 // Region where bycket created
   }
@@ -22,7 +22,7 @@ terraform {
 data "terraform_remote_state" "network" {
   backend = "s3"
   config = {
-    bucket = "deeptesh-project-krntwrk-terraform-state" // Bucket from where to GET Terraform State
+    bucket = "" // Bucket from where to GET Terraform State
     key    = "dev/network/terraform.tfstate"             // Object name in the bucket to GET Terraform state
     region = "us-east-1"                                 // Region where bycket created
   }
