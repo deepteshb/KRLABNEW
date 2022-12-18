@@ -33,7 +33,7 @@ resource "aws_subnet" "USEAST_MAIN_VPC_APPSERVER_SUBNET_3" {
 
 resource "aws_subnet" "USEAST_MAIN_VPC_DBSERVER_SUBNET_4" {
   vpc_id            = aws_vpc.USEAST_MAIN_VPC.id
-  cidr_block        = "10.0.20.0/28"
+  cidr_block        = "10.0.24.0/28"
   availability_zone = "us-east-1a"
 
   tags = {

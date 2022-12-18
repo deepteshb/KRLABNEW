@@ -1,10 +1,10 @@
 terraform {
     backend "s3" {
     bucket = "mybucket"
-    key    = "prod.tf.state"
+    key    = "hub.tf.state"
     region = "us-east-1"
     workspaces {
-      name = "dev"
+      name = "hub"
     }
   }
 
